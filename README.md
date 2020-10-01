@@ -38,7 +38,7 @@ optional arguments:
 - Worked on some machines with MacOS and python3.
 - The requirements mentioned in the next few lines.
 
-### Installing
+### Installation 
 **+For windows : (After downloading ZIP and upzip it)**
 ```
 cd Cr3dOv3r-master
@@ -63,7 +63,7 @@ docker run -it cr3dov3r "test@example.com"
 
 **If you want to add a website to the tool, follow the instructions in the [wiki](https://github.com/D4Vinci/Cr3dOv3r/wiki)**
 
-## Contact
+## Contact Info
 - [Twitter](https://twitter.com/D4Vinci1)
 
 ## Donation
