@@ -38,7 +38,7 @@ optional arguments:
 - Worked on some machines with MacOS and python3.
 - The requirements mentioned in the next few lines.
 
-### Installing
+### Installation 
 **+For windows : (After downloading ZIP and upzip it)**
 ```
 cd Cr3dOv3r-master
